@@ -98,3 +98,4 @@
 
 
 [way1]:https://github.com/JoosikHan/Effective-Python/blob/main/Files/way01.md
+[way2]:https://github.com/JoosikHan/Effective-Python/blob/main/Files/way02.md
