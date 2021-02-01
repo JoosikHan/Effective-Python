@@ -81,3 +81,20 @@
 57. [Better way 57.  pdb를 이용한 대화식 디버깅을 고려하자][way57]
 58. [Better way 58.  최적화하기 전에 프로파일하자][way58]
 59. [Better way 59.  tracemalloc으로 메모리 사용 현황과 누수를 파악하자][way59]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[way1]:https://github.com/JoosikHan/Effective-Python/blob/main/Files/way01.md
